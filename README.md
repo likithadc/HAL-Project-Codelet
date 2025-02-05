@@ -3,7 +3,7 @@
 -As economies move towards cashless transactions, fraudsters exploit digital payment systems.
 -The increasing reliance on digital transactions through credit cards, mobile wallets, UPI, and cryptocurrencies has led to a rise in financial fraud, including identity theft, unauthorized  transactions, chargeback fraud, and money laundering.
 -Traditional fraud detection systems that rely on rule-based methods struggle to keep pace with evolving fraud tactics.
--The challenge is to detect and prevent these fraudulent transactions effectively.
+-The challenge is to detect these fraudulent transactions effectively.
 
 Instal all the libraries such as NumPy,pandas,seaborn, matplotlib, scikit-learn, imbalanced-learn by using pip.
 The steps involves:
